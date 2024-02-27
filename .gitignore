@@ -1,5 +1,10 @@
 # large csv files with data
-data/*.csv
+data/*
+output/*
+
+# notebook checkpoints
+.ipynb_checkpoints/*
+*.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
